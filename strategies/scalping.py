@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Step 1: Define your API Key, Ticker, and Initial Balance
 API_KEY = "kNC1GSQ9nayON7oiIxts48lDBPp357Mj"  # Replace with your Polygon.io API key
 TICKER = "TSLA"
-INITIAL_BALANCE = 1000000  # Starting balance in USD
+INITIAL_BALANCE = 100000  # Starting balance in USD
 
 
 # Step 2: Fetch historical minute-level data from Polygon.io
